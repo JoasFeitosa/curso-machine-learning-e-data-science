@@ -9,3 +9,8 @@ Census
 0.8128 - Árvore de decisão (labelencoder)
 0.8102 - Árvore de decisão (labelencoder + onehotencoder)
 0.8128 - Árvore de decisão (labelencoder + escalonamento)
+
+0.8476 - Random Forest n_estimators = 40 (labelencoder + onehotencoder + escalonamento)
+0.8481 - Random Forest n_estimators = 40 (labelencoder)
+0.8489 - Random Forest n_estimators = 40 (labelencoder + onehotencoder)
+0.8479 - Random Forest n_estimators = 40 (labelencoder + escalonamento)
